@@ -1,5 +1,5 @@
-#MEAN Stack based Auth App
-_Template for a MEAN stack based application_
+#PostgreSQL & EAN Stack based Auth App
+_Template for a PostgreSQL & EAN stack based application_
 
 ##Requirements
 * [NodeJS](https://nodejs.org/)
