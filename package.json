@@ -1,0 +1,31 @@
+{
+  "name": "meanauthapp",
+  "version": "1.0.0",
+  "description": "MEAN Stack Auth App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivnshu/meanauthapp.git"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "pg": "^6.2.3"
+  },
+  "author": "Shivanshu Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shivnshu/meanauthapp/issues"
+  },
+  "homepage": "https://github.com/shivnshu/meanauthapp#readme"
+}
